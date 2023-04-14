@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tomb_Vektor", "Tomb_Vektor\Tomb_Vektor.csproj", "{4089FDA9-9F5B-4B37-B844-7ADC478363C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HatosLotto", "HatosLotto\HatosLotto.csproj", "{DBDC4C33-492F-4364-BEA4-AEB17C3E7951}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HetesLotto", "HetesLotto\HetesLotto.csproj", "{D453AD78-0C6C-4A81-B931-4B5A6F76270D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KetdimenziosTomb_Matrix", "KetdimenziosTomb_Matrix\KetdimenziosTomb_Matrix.csproj", "{CE5003EE-389C-4413-A7C5-EFC79B5C6F52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4089FDA9-9F5B-4B37-B844-7ADC478363C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4089FDA9-9F5B-4B37-B844-7ADC478363C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4089FDA9-9F5B-4B37-B844-7ADC478363C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4089FDA9-9F5B-4B37-B844-7ADC478363C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBDC4C33-492F-4364-BEA4-AEB17C3E7951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDC4C33-492F-4364-BEA4-AEB17C3E7951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDC4C33-492F-4364-BEA4-AEB17C3E7951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDC4C33-492F-4364-BEA4-AEB17C3E7951}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D453AD78-0C6C-4A81-B931-4B5A6F76270D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D453AD78-0C6C-4A81-B931-4B5A6F76270D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D453AD78-0C6C-4A81-B931-4B5A6F76270D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D453AD78-0C6C-4A81-B931-4B5A6F76270D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE5003EE-389C-4413-A7C5-EFC79B5C6F52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5003EE-389C-4413-A7C5-EFC79B5C6F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5003EE-389C-4413-A7C5-EFC79B5C6F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5003EE-389C-4413-A7C5-EFC79B5C6F52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A431ABF-1DE1-412B-865C-2186C828D401}
+	EndGlobalSection
+EndGlobal
